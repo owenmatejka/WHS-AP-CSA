@@ -1,4 +1,4 @@
-# WHS-AP-CSA
+# WHS AP CSA
 ### Welcome to the Wellesley High School AP CSA Help Repository! 
 
 ## About
