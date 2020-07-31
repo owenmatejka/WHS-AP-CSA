@@ -12,4 +12,5 @@ If you notice any issues, typos, incorrect solutions, etc, please email me using
 
 ## Contact Info
 Email: 21matejkao@wpsraiders.org
+
 Homeroom: Bel (History)
